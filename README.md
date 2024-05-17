@@ -1,27 +1,4 @@
 # Boas-vindas ao repositório do projeto de Lições Aprendidas!
-
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver **qualquer dúvida**, nos envie no _Slack_ da turma! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
-<br />
-
-# Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta e do Manual da Pessoa Estudante da Trybe](https://app.betrybe.com/manual-estudante/codigo-de-etica-e-conduta).
-
-<br />
-
-# Entregáveis
-
-<details>
-<summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
-
-Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog - Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
-
-</details>
   
 <details>
 <summary><strong>🧑‍💻 O que deverá ser desenvolvido</strong></summary><br />
@@ -35,19 +12,6 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 <br />
 
 </details>
-  
-<details>
-<summary><strong>🗓 Data de Entrega</strong></summary><br />
-
-- Este projeto é individual
-
-- Será `1` dia de projeto.
-
-- Data para entrega final do projeto: `26/07/2022 14:00`.
-
-</details>
-
-<br />
 
 # Orientações
   
@@ -56,9 +20,8 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-025-a-project-lessons-learned.git`
+- Use o comando: `git clone git@github.com:MvBona/Tuto1.git`
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-025-a-project-lessons-learned`
 
 2. Instale as dependências e inicialize o projeto
 
@@ -101,7 +64,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-025-a-project-lessons-learned/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/MvBona/Tuto1)
 - Clique no botão verde _"New pull request"_
 - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção** - Coloque um título para o seu _Pull Request_
   - Exemplo: _"Cria tela de busca"_
@@ -111,7 +74,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-025-a-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/MvBona/Tuto1/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 <details>
@@ -130,27 +93,6 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 4. `git push -u origin nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_;
 
 5. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_.
-
-</details>
-  
-<details>
-<summary><strong>🤝 Depois de terminar o desenvolvimento (opcional)</strong></summary><br />
-
-Para sinalizar que o seu projeto está pronto para o _'Code Review'_ dos seus colegas, faça o seguinte:
-
-- Vá até a página **DO SEU** _Pull Request_, adicione a label de _'code-review'_ e marque seus colegas:
-  - No menu à direita, clique no _link_ **'Labels'** e escolha a _label_ **code-review**;
-  - No menu à direita, clique no _link_ **'Assignees'** e escolha **o seu usuário**;
-  - No menu à direita, clique no _link_ **'Reviewers'** e digite `students`, selecione o time `tryber/students-sd-025-a`.
-
-Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
-</details>
-  
-<details>
-<summary><strong>🕵🏿 Revisando um pull request</strong></summary><br />
-
-Use o conteúdo sobre [Code Review](https://app.betrybe.com/course/real-life-engineer/code-review) para te ajudar a revisar os _Pull Requests_.
 
 </details>
 
