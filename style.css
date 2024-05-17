@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    background-color: rgb(253, 251, 251);
+}
+#cabecalho {
+    background-color: rgb(128, 252, 132);
+    top: 0; 
+    padding-top: 20px;
+    padding-bottom: 30px;  
+    position: fixed;
+    width: 100%;
+}
+#titulo{
+    font-family: 'Albert Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+#minha_foto{
+    margin-left: 25px;
+    margin-top: 20px;
+    width: 300px;
+    border-radius: 10%;
+}
+#contatos{
+    height: 160px;
+    width: 140px;
+}
+.imagem_contato{
+    border-radius: 10px;
+}
+#container_foto_contatos{
+    height: 400px;
+    width: 490px;
+}
+.conteudo_foto_contatos{
+    display: inline-block;
+}
+.licoes{
+    display: inline-block;
+    background-color: rgb(128, 252, 132);
+    border: 4px rgb(83, 164, 86) solid;
+    border-radius: 30px;
+}
+#licoes_aprendidas, #licoes_a_aprender{
+   width: 190px;
+   padding: 20px 10px 20px 30px;
+}
+#container_licoes{
+    position: absolute;
+    text-align: center;
+    font-size: 120%;
+    width: 500px;
+    top: 200px;
+    right: 250px;
+}
+#rodape{
+    background-color: rgb(128, 252, 132);
+    color: black;
+    font-family: 'Albert Sans', sans-serif;
+    position: fixed;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+#aprendizado{
+    background-color: rgb(245, 245, 245);
+    width: 800px;
+    margin: 20px 0px 0px 450px;
+    padding: 10px;
+    line-height: 1.5;
+}
+#descricao{
+    background-color: rgb(245, 245, 245);
+    line-height: 1.5;
+    padding: 10px;
+    margin: 20px;
+}
+#container1{
+    margin-top: 110px;
+}
+#container2{
+   border: ;
+   font-size: 120%;
+}
+.inline_block{
+    display: inline-block;
+}
